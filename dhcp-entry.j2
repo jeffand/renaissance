@@ -1,0 +1,7 @@
+host {{ host_name }} {
+     hardware ethernet {{ mac_address }};
+     fixed-address {{ ip }};
+     ddns-hostname "{{ host_name }}";
+     option host-name "{{ host_name }}";
+     option domain-name "ariba.test";
+}

@@ -1,0 +1,8 @@
+---
+hostname: 'noodle1.network.test'
+   mac_address: 'ab:cd:ef:12:34:56'
+   subnet: '192.168.200.0/24'
+
+hostname: 'noodle2.network.test'
+   mac_address: 'ab:cd:ef:12:34:57'
+   subnet: '192.168.200.0/24'
